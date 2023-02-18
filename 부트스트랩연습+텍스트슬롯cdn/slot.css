@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css?family=Inconsolata");
+.container {
+  background-color: #f7f5eb;
+}
+
+.txt_title {
+  color: #ffa906;
+}
+
+.random_title {
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+}
+
+.typing {
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+}
+
+.slot {
+  font-family: "Inconsolata";
+  font-weight: bold;
+  font-size: 40px;
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+  letter-spacing: 0px;
+  fill: #fff;
+}
+
+.btn_css {
+  font-family: "Inconsolata";
+  font-weight: bold;
+  font-size: 40px;
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+  letter-spacing: 0px;
+  fill: #fff;
+  border: none;
+  border-radius: 45px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  background-color: #ffa906;
+  color: #fff;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  transition: all 0.3s ease 0s;
+  outline: none;
+}
+.btn_css:hover {
+  box-shadow: 0px 15px 20px rgba(255, 169, 6, 0.3);
+  transform: translateY(-7px);
+}/*# sourceMappingURL=slot.css.map */
