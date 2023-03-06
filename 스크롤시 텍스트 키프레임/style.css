@@ -23,7 +23,7 @@ h1 {
   font-family: sans-serif;
   text-transform: uppercase;
   color: #fff;
-  animation: slide 2s ease-in-out;
+  /* animation: slide 2s ease-in-out; */
 }
 
 @keyframes slide {

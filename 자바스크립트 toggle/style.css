@@ -1,0 +1,7 @@
+.myLogo {
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
+}
+.myLogo.on {
+  opacity: 0;
+}/*# sourceMappingURL=style.css.map */
