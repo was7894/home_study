@@ -1,6 +1,6 @@
-# # ANBD(아나바다 중고 쇼핑몰) 프로젝트
+# ANBD(아나바다 중고 쇼핑몰) 프로젝트
 
-> PWA 앱으로 제작한 react(프론트엔드) + node.js(웹서버) 프로젝트 중고 쇼핑몰 입니다.
+> <span style="color:red">PWA<span> 앱으로 제작한 react(프론트엔드) + node.js(웹서버) 프로젝트 중고 쇼핑몰 입니다.<br>
 > 프론트는 리액트를 사용하여 제작, 백엔드는 nodejs의 express를 활용하여 구현한 프로젝트입니다.
 
 ## 배포URL[리액트앱][https://anbd.vercel.app/]
