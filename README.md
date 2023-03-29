@@ -3,11 +3,14 @@
 > <span style="color:red">PWA<span> 앱으로 제작한 react(프론트엔드) + node.js(웹서버) 프로젝트 중고 쇼핑몰 입니다.<br>
 > 프론트는 리액트를 사용하여 제작, 백엔드는 nodejs의 express를 활용하여 구현한 프로젝트입니다.
 
-## 배포URL[리액트앱][https://anbd.vercel.app/]
+## 배포URL(페이지)
 
-## 백엔드 서비스URL[][https://port-0-anbd-db-sever-6g2llfcbue07.sel3.cloudtype.app/]
+[프론트엔드(페이지)][https://anbd.vercel.app/]
+[백엔드(서버)][https://port-0-anbd-db-sever-6g2llfcbue07.sel3.cloudtype.app/]
 
-## 백엔드 깃허브[][]
+## 깃허브 레파지토리
+
+[https://github.com/orgs/2ANBD/repositories]
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
