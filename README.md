@@ -3,7 +3,7 @@
 > <span style="color:red">PWA<span> 앱으로 제작한 react(프론트엔드) + node.js(웹서버) 프로젝트 중고 쇼핑몰 입니다.<br>
 > 프론트는 리액트를 사용하여 제작, 백엔드는 nodejs의 express를 활용하여 구현한 프로젝트입니다.
 
-## 배포URL(페이지)
+## 배포URL
 
 [프론트엔드(페이지)][https://anbd.vercel.app/]<br>
 [백엔드(서버)][https://port-0-anbd-db-sever-6g2llfcbue07.sel3.cloudtype.app/]
@@ -36,6 +36,18 @@ npm start
 ```
 
 ## 사용 예제
+
+프론트:
+
+```sh
+npm start
+```
+
+백엔드:
+
+```sh
+node index.js
+```
 
 스크린 샷과 <a href="http://naver.com" target="black">코드 예제를 통해 사용 방법을 자세히 설명합니다.
 
